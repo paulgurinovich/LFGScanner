@@ -1,0 +1,10 @@
+## Interface: 30300
+## Title: LFGScanner
+## Notes: Simple LFG Scanner for WotLK
+## Version: 0.2.5
+## Author FlyingLotus
+## SavedVariables: LFGScannerSettings, LFGScannerFilters
+
+LFGScanner.lua
+alert1.wav
+Whisper.ogg
