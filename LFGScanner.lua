@@ -1,4 +1,4 @@
-local version = "0.2.5"
+local version = GetAddOnMetadata("LFGScanner", "Version")
 local seenAuthors = {}
 local HandleIncomingMessage
 
